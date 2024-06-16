@@ -1,0 +1,7 @@
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\bin\Debug\Assignment 1pro.exe.config
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\bin\Debug\Assignment 1pro.exe
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\bin\Debug\Assignment 1pro.pdb
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\obj\Debug\Assignment 1pro.csproj.AssemblyReference.cache
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\obj\Debug\Assignment 1pro.csproj.CoreCompileInputs.cache
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\obj\Debug\Assignment 1pro.exe
+C:\Users\X1\source\repos\Tu_Hoc_C\Assignment 1pro\obj\Debug\Assignment 1pro.pdb
